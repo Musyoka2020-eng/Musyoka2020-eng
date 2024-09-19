@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Musyoka2020-eng
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m developing using php Lavarel, JS Node, Html, CSS
+- 🌱 I’m developing using php Lavarel, JS Node, Express, Html, CSS
 - 💞️ I’m looking to collaborate on ....
 
 <!---
