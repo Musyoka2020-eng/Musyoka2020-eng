@@ -1,9 +1,4 @@
 # 💫 Welcome to My GitHub Profile!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1nR9ZjDe8xjrgYk8wI/giphy.gif" alt="Loading..." width="300">
-</p>
-
 ## 👨‍💻 About Me:
 - 🔭 I’m currently working on **cloud deployment** and **API integrations**.<br>
 - 💼 I'm a passionate **Full Stack Developer** with expertise in PHP (Laravel), JavaScript (Node.js, Express), HTML, and CSS.<br>
