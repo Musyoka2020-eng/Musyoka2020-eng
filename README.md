@@ -1,180 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
+# 💫 About Me:
+🔭 I’m currently working on enhancing my skills in  cloud deployment and API integrations.<br>🤝 I’m passionate Full Stack Developer with expertise in PHP (Laravel), JavaScript (Node.js, Express), HTML, and CSS<br>🌱 I’m currently learning React and MongoDB<br>💬 Ask me about Javascript<br>👀 I’m love in building scalable web applications and working on both front-end and back-end development.<br>💞️ I’m looking to collaborate on open-source projects and innovative web applications that solve real-world problems.<br>⚡ Fun fact I am a Developer<br>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me - Musyoka</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #121212;
-      color: #ffffff;
-      text-align: center;
-      margin: 0;
-      padding: 0;
-      overflow: hidden;
-    }
 
-    .container {
-      padding: 20px;
-      display: none;
-    }
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/st_atkins?igsh=ZTQ3YTZmZnRnNXRu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/steve-musyoka-506826288/) 
 
-    .loading-screen {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: #121212;
-    }
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=plastic&logo=symfony&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Musyoka2020-eng&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Musyoka2020-eng&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Musyoka2020-eng&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-    .loading-screen h1 {
-      font-size: 2em;
-      color: #f0f0f0;
-      margin-bottom: 20px;
-    }
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Musyoka2020-eng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-    .loader {
-      border: 8px solid #f3f3f3;
-      border-radius: 50%;
-      border-top: 8px solid #3498db;
-      width: 60px;
-      height: 60px;
-      animation: spin 2s linear infinite;
-    }
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-    @keyframes spin {
-      0% {
-        transform: rotate(0deg);
-      }
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Musyoka2020-eng&limit=5&theme=cobalt2&combine_all_yearly_contributions=true)
 
-      100% {
-        transform: rotate(360deg);
-      }
-    }
+---
+[![](https://visitcount.itsvg.in/api?id=Musyoka2020-eng&icon=1&color=9)](https://visitcount.itsvg.in)
 
-    h2 {
-      color: #66fcf1;
-      margin-top: 40px;
-    }
-
-    a {
-      text-decoration: none;
-      color: #66fcf1;
-      font-weight: bold;
-    }
-
-    .game-container {
-      margin-top: 50px;
-    }
-
-    .game-box {
-      border: 2px solid #66fcf1;
-      padding: 20px;
-      border-radius: 10px;
-      display: inline-block;
-    }
-
-    input {
-      padding: 8px;
-      margin: 10px;
-      width: 100px;
-      border-radius: 5px;
-      border: 1px solid #fff;
-    }
-
-    button {
-      padding: 10px;
-      background-color: #66fcf1;
-      color: #121212;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-
-    button:hover {
-      background-color: #45a29e;
-    }
-  </style>
-</head>
-
-<body>
-
-  <div class="loading-screen">
-    <div>
-      <h1>Loading Your Awesome Profile...</h1>
-      <div class="loader"></div>
-    </div>
-  </div>
-
-  <div class="container">
-    <h1>💫 About Me</h1>
-    <p>🔭 I’m currently working on enhancing my skills in cloud deployment and API integrations.<br>🤝 I’m a passionate Full Stack Developer with expertise in PHP (Laravel), JavaScript (Node.js, Express), HTML, and CSS<br>🌱 I’m currently
-      learning React and MongoDB<br>💬 Ask me about Javascript<br>👀 I love building scalable web applications and working on both front-end and back-end development.<br>💞️ I’m looking to collaborate on open-source projects and innovative
-      web applications that solve real-world problems.<br>⚡ Fun fact: I am a Developer<br></p>
-
-    <h2>🌐 Socials</h2>
-    <p>
-      <a href="https://www.instagram.com/st_atkins?igsh=ZTQ3YTZmZnRnNXRu" target="_blank">Instagram</a> |
-      <a href="https://www.linkedin.com/in/steve-musyoka-506826288/" target="_blank">LinkedIn</a>
-    </p>
-
-    <h2>💻 Tech Stack</h2>
-    <p>JavaScript, HTML5, PHP, TypeScript, Google Cloud, Azure, GitHub Pages, Firebase, Bootstrap, Express.js, Laravel, React, MongoDB, MySQL, and more...</p>
-
-    <h2>📊 GitHub Stats</h2>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=Musyoka2020-eng&theme=neon&hide_border=false&include_all_commits=true&count_private=false"><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musyoka2020-eng&theme=neon&hide_border=false"><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musyoka2020-eng&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></p>
-
-    <h2>🎮 Small Game - Guess the Number</h2>
-    <div class="game-container">
-      <div class="game-box">
-        <p>Guess the number between 1 and 100:</p>
-        <input type="number" id="userGuess" min="1" max="100" placeholder="Enter guess">
-        <button onclick="checkGuess()">Submit</button>
-        <p id="feedback"></p>
-      </div>
-    </div>
-  </div>
-
-  <script>
-    // Loading screen delay
-    window.onload = function () {
-      setTimeout(() => {
-        document.querySelector('.loading-screen').style.display = 'none';
-        document.querySelector('.container').style.display = 'block';
-      }, 3000);
-    };
-
-    // Guess the number game logic
-    const randomNumber = Math.floor(Math.random() * 100) + 1;
-    let attempts = 0;
-
-    function checkGuess() {
-      const userGuess = parseInt(document.getElementById('userGuess').value);
-      const feedback = document.getElementById('feedback');
-      attempts++;
-
-      if (isNaN(userGuess) || userGuess < 1 || userGuess > 100) {
-        feedback.innerText = "Please enter a valid number between 1 and 100.";
-        return;
-      }
-
-      if (userGuess === randomNumber) {
-        feedback.innerText = `🎉 Congrats! You guessed the number in ${attempts} attempts!`;
-      } else if (userGuess < randomNumber) {
-        feedback.innerText = "Try a higher number!";
-      } else {
-        feedback.innerText = "Try a lower number!";
-      }
-    }
-  </script>
-</body>
-
-</html>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
